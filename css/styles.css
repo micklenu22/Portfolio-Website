@@ -10,7 +10,8 @@ body{
     display: block;
     margin: auto;
     min-height: 100vh;
-    background: #ed8a63;
+    background: #d4d4dc
+    ;
     font-family: sans-serif;
 }
 
@@ -23,7 +24,7 @@ body{
     justify-content: center;
     align-items: center;
     z-index: 9;
-    background: #1a1a1a;
+    background: #d4d4dc;
 }
 
 .link-group{
