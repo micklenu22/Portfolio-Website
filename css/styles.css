@@ -32,7 +32,7 @@ body{
 }
 
 .link a{
-    color: red;
+    color: #fff;
     opacity: 0.5;
     text-decoration: none;
     text-transform: capitalize;
